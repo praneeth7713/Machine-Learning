@@ -50,8 +50,8 @@ Necessary Python packages
 
 Installation
 Clone the repository:
-git clone https://github.com/username/MyMachineLearning.git
-cd MyMachineLearning
+git clone https://github.com/praneeth7713/MachineLearning.git
+cd MachineLearning
 
 
 Data Preprocessing
